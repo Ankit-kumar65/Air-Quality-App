@@ -132,7 +132,7 @@ public class activity1 extends AppCompatActivity {
 
 
 
-        webView.loadUrl("https://breezometer.com/air-quality-map/");
+        webView.loadUrl("https://www.breezometer.com/air-quality-map/air-quality/india/");
 
 
 
