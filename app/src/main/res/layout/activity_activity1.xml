@@ -28,23 +28,7 @@
     </WebView>
 
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="62dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginLeft="0dp"
-        android:layout_marginTop="-5dp"
-        android:layout_marginEnd="0dp"
-        android:layout_marginRight="0dp"
-        android:foreground="@drawable/bb"
-        android:text="Questions" />
-
+    
 
 
 
